@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/tanishasethi27/SALES_GENIUS/commit/a0716b97e38149bf5b6e4fc7ba479ff5e91a4a73)
 # Sales Genius: Persistent Sales and Apex Product Tracker
 
 ✨Overview of the Project✨
