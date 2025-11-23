@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/tanishasethi27/SALES_GENIUS/blob/main/VITYARTHI%20PROJECT.png)
 # Problem Statement
 The challenge remains for small businesses to track high-demand items, but the solution must be practical and persistent. The initial problem of relying on manual or volatile tracking systems is compounded by the need to capture financial metrics (like revenue) alongside unit sales. An effective solution requires data persistence and the flexibility to define the business's unique product catalog.
 
